@@ -1,7 +1,7 @@
-# 🌱 Hi!
-I'm Dan (@ddvniele). I study programming at school (and I'm also a self-taught).
+# 🌱 hi! :)
+i'm Dan (@ddvniele). i study programming at school (and i'm also a self-taught).
 
-## 🖋 I can write
+## 🖋 i can write
 - C# (learning at school)
 - Swift & Objective-C (learning by myself)
 - HTML
