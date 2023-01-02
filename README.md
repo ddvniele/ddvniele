@@ -8,6 +8,6 @@ i'm Dan (@ddvniele). i study programming at school (and i'm also a self-taught).
 
 ## 🕵🏻 you can find me on
 - twitter ([@ddvniele](https://www.twitter.com/ddvniele))
-- reddit ([@justd4n](https://www.reddit.com/justd4n))
+- reddit ([@justd4n](https://www.reddit.com/u/justd4n/))
 - instagram ([@ddvniele](https://www.instagram.com/ddvniele))
 - spotify ([dan <3](https://www.sptfy.com/ddvniele))
