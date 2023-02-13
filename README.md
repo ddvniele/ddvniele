@@ -3,7 +3,7 @@ i'm Dan (@ddvniele). i study programming at school (and i'm also a self-taught).
 
 ## 🖋 i can write
 - C# (learning at school)
-- Swift (learning by myself)
+- Swift & SwiftUI (learning by myself)
 - a little bit of HTML
 
 ## 🕵🏻 you can find me on
