@@ -1,5 +1,5 @@
 # 🤺 hi!
-i'm Dan (@ddvniele). i study programming at school (and i'm also a self-taught).
+i'm Dan. i study programming at school (and i'm also a self-taught)
 
 ## 🖋 i can write
 - C# (learning at school)
