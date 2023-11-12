@@ -10,4 +10,3 @@ i'm Dan (@ddvniele). i study programming at school (and i'm also a self-taught).
 - twitter ([@ddvniele](https://www.twitter.com/ddvniele))
 - reddit ([@justd4n](https://www.reddit.com/u/justd4n/))
 - instagram ([@ddvniele](https://www.instagram.com/ddvniele))
-- spotify ([Dan](https://www.sptfy.com/ddvniele))
