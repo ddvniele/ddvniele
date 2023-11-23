@@ -2,7 +2,7 @@
 i'm Dan, i study programming at school (and i'm also a self-taught)
 
 ## 🖋 i can write
-- C# (learning at school)
+- C# and SQL (learning at school)
 - Swift & SwiftUI (learning by myself)
 - working on HTML, CSS & JavaScript
 
