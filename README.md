@@ -1,4 +1,4 @@
-# 💿 hi!
+# 📂 hi!
 I'm Dan, a developer who's been working on both app and web developement.
 
 ## 🖋 i can write
