@@ -1,5 +1,5 @@
 # 🤾🏻 hi!
-i'm Dan, i study programming at school (and i'm also a self-taught)
+I'm Dan, a developer who's been working on both app and web developement.
 
 ## 🖋 i can write
 - C# and SQL (learning at school)
