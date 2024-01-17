@@ -1,5 +1,5 @@
 # 📂 hi!
-I'm Dan, a developer who's been working on both app and web developement.
+I'm Dan, a developer who's been working on both app and web development.
 
 ## 🖋 i can write
 - C# and SQL (learning at school)
