@@ -1,7 +1,7 @@
 # 📂 hi!
 I'm Dan, a developer who's been working on both app and web development.
 
-## 🖋 i can write
+## 🖋 I can write
 - C# and SQL (learning at school)
 - Swift & SwiftUI (learning by myself)
 - working on HTML, CSS & JavaScript
