@@ -7,7 +7,7 @@ I'm Dan, a developer who's been working on both app and web development.
 - working on HTML, CSS & JavaScript
 
 ## 💿 my portfolio (still under construction)
-- ddvniele.github.io ;)
+- https://ddvniele.github.io ;)
 
 ## 🕵🏻 you can find me on
 - twitter ([@ddvniele](https://www.twitter.com/ddvniele))
