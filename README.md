@@ -1,9 +1,10 @@
 # 📂 hi!
-I'm Dan, a developer who's been working on both app and web development.
+I'm Dan, a 19 years old developer who's been working on both app and web development.
 
 ## 🖋 I can write
-- C# and SQL (learning at school)
+- C# and SQL (learned at school)
 - Swift & SwiftUI (learning by myself)
+- a bit of Objective-C (learning from iOS tweaks writing)
 - working on HTML, CSS & JavaScript
 
 ## 🕵🏻 you can find me on
