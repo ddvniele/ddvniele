@@ -11,8 +11,8 @@ ddvniele@GitHub: ~ $ whoami
     working on HTML, CSS & JavaScript
 
 🕵🏻 you can find me on
-    my website ([Dan's House](https://ddvniele.github.io), still developing)
-    twitter ([@ddvniele](https://www.twitter.com/ddvniele))
-    reddit ([@justd4n](https://www.reddit.com/u/justd4n/))
-    instagram ([@ddvniele](https://www.instagram.com/ddvniele))
+    my website (https://ddvniele.github.io, still developing)
+    twitter (https://www.twitter.com/ddvniele)
+    reddit (https://www.reddit.com/u/justd4n/)
+    instagram (https://www.instagram.com/ddvniele)
 ```
