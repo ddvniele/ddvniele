@@ -1,5 +1,5 @@
 # 📂 hi!
-I'm Dan, a 19 years old developer who's been working on both app and web development.
+I'm Dan, a 19 years old developer who's been working on both app and web development. take a coffee with me at the [💿 Dan's House](https://ddvniele.github.io) ツ
 
 ## 🖋 I can write
 - C# and SQL (learned at school)
