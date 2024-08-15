@@ -7,7 +7,7 @@ ddvniele@GitHub: ~ $ whoami
 🖋️ I can write
     C# and SQL (learned at school)
     Swift & SwiftUI (learning by myself)
-    a bit of Objective-C (learning from iOS tweaks writing)
+    a bit of Objective-C (some tweaks writing)
     working on HTML, CSS & JavaScript
 
 🕵🏻 you can find me on
