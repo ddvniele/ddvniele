@@ -1,5 +1,4 @@
 <div align="center">
-    <img width="150" alt="hi, I'm Dan" src="https://github.com/user-attachments/assets/260bef08-7ac5-4dc6-9b58-bbe24399afed">
     <h1>hi, I'm Dan ツ</h1>
     <a href="https://ddvniele.github.io"><img src="https://img.shields.io/badge/take_a_coffee_with_me_at_the-Dan's_House_ツ-white"></a>
 </div>
