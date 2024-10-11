@@ -8,7 +8,7 @@
     <p>
         I'm a 19 years old developer, I studied programming<br>
         in high school and I'm now a marketing student at<br>
-        UniBo (Bologna, Italy) programming as a hobbyist.<br>
+        an italian university, programming as a hobbyist.<br>
         I've been working on both app and web development.
     </p>
     <b>🖋️ <i>I CAN WRITE</i></b>
