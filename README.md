@@ -1,6 +1,6 @@
 <div align="center">
-    <h1>hi, I'm Dan ツ</h1>
-    <a href="https://ddvniele.github.io"><img src="https://img.shields.io/badge/take_a_coffee_with_me_at_the-Dan's_House_ツ-white"></a>
+    <a href="https://ddvniele.github.io"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=35&pause=1000&color=BA96F7&center=true&vCenter=true&width=435&lines=Hi%2C+I'm+Dan+%E3%83%84;Ciao%2C+sono+Dan+%E3%83%84;Salut%2C+je+suis+Dan+%E3%83%84;Hola%2C+soy+Dan+%E3%83%84" alt="Hi, I'm Dan ツ"></a><br><br>
+    <a href="https://ddvniele.github.io"><img src="https://img.shields.io/badge/visit_my_webpage-Dan's_House_ツ-white"></a>
 </div>
 <div align="center">
     <br>
@@ -11,7 +11,8 @@
         an italian university, programming as a hobbyist.<br>
         I've been working on both app and web development.
     </p>
-    <b>🖋️ <i>I CAN WRITE</i></b>
+    <hr>
+    <b>🖋️ <i>TOOLS & LANGUAGES</i></b>
     <div>
         <a href="https://github.com/ddvniele?tab=repositories&type=source"><img src="https://img.shields.io/badge/Swift-orange"></a>
         <a href="https://github.com/ddvniele?tab=repositories&type=source"><img src="https://img.shields.io/badge/SwiftUI-orange"></a>
@@ -22,7 +23,7 @@
         <a href="https://github.com/ddvniele?tab=repositories&type=source"><img src="https://img.shields.io/badge/C-sharp-green"></a>
         <a href="https://github.com/ddvniele?tab=repositories&type=source"><img src="https://img.shields.io/badge/SQL-purple"></a>
     </div><br>
-    <b>🕵🏻 <i>YOU CAN FIND ME ON</i></b>
+    <b>🕵🏻 <i>FIND ME ON</i></b>
     <div>
         <a href="https://twitter.com/ddvniele"><img src="https://img.shields.io/twitter/follow/ddvniele?style=social"></a>
         <a href="https://reddit.com/u/justd4n"><img src="https://img.shields.io/badge/Reddit-@justd4n-orange"></a><br>
