@@ -6,28 +6,36 @@
     <br>
     <b>📂 <i>WHO AM I</i></b>
     <p>
-        I'm a 19 years old developer, I studied programming
+        I'm a 19 years old developer, I studied programming<br>
         in high school and I'm now a marketing student at<br>
-        an italian university, programming as a hobbyist.
+        an italian university, programming as a hobbyist.<br>
         I've been working on both app and web development.
     </p>
     <hr>
-    <b>🖋️ <i>TOOLS & LANGUAGES</i></b>
-    <div>
-        <a href="https://github.com/ddvniele?tab=repositories&type=source"><img src="https://img.shields.io/badge/Swift-orange"></a>
-        <a href="https://github.com/ddvniele?tab=repositories&type=source"><img src="https://img.shields.io/badge/SwiftUI-orange"></a>
-        <a href="https://github.com/ddvniele?tab=repositories&type=source"><img src="https://img.shields.io/badge/Objective-C-orange"></a>
-        <a href="https://github.com/ddvniele?tab=repositories&type=source"><img src="https://img.shields.io/badge/HTML-gray"></a>
-        <a href="https://github.com/ddvniele?tab=repositories&type=source"><img src="https://img.shields.io/badge/CSS-blue"></a>
-        <a href="https://github.com/ddvniele?tab=repositories&type=source"><img src="https://img.shields.io/badge/JavaScript-yellow"></a>
-        <a href="https://github.com/ddvniele?tab=repositories&type=source"><img src="https://img.shields.io/badge/C-sharp-green"></a>
-        <a href="https://github.com/ddvniele?tab=repositories&type=source"><img src="https://img.shields.io/badge/SQL-purple"></a>
-    </div><br>
-    <b>🕵🏻 <i>FIND ME ON</i></b>
-    <div>
-        <a href="https://twitter.com/ddvniele"><img src="https://img.shields.io/twitter/follow/ddvniele?style=social"></a>
-        <a href="https://reddit.com/u/justd4n"><img src="https://img.shields.io/badge/Reddit-@justd4n-orange"></a>
-        <a href="https://instagram.com/ddvniele"><img src="https://img.shields.io/badge/Instagram-@ddvniele-fuchsia"></a>
-        <a href="https://github.com/ddvniele"><img src="https://img.shields.io/github/followers/ddvniele?label=follow&style=social"></a>
-    </div>
+</div>
+<div align="center">
+    <table>
+        <tr>
+            <td align="center"><b>🖋️ <i>TOOLS & LANGUAGES</i></b></td>
+            <td align="center"><b>🕵🏻 <i>FIND ME ON</i></b></td>
+        </tr>
+        <tr>
+            <td align="center">
+                <a href="https://github.com/ddvniele?tab=repositories&type=source"><img src="https://img.shields.io/badge/Swift-orange"></a>
+                <a href="https://github.com/ddvniele?tab=repositories&type=source"><img src="https://img.shields.io/badge/SwiftUI-orange"></a>
+                <a href="https://github.com/ddvniele?tab=repositories&type=source"><img src="https://img.shields.io/badge/Objective-C-orange"></a>
+                <a href="https://github.com/ddvniele?tab=repositories&type=source"><img src="https://img.shields.io/badge/HTML-gray"></a><br>
+                <a href="https://github.com/ddvniele?tab=repositories&type=source"><img src="https://img.shields.io/badge/CSS-blue"></a>
+                <a href="https://github.com/ddvniele?tab=repositories&type=source"><img src="https://img.shields.io/badge/JavaScript-yellow"></a>
+                <a href="https://github.com/ddvniele?tab=repositories&type=source"><img src="https://img.shields.io/badge/C-sharp-green"></a>
+                <a href="https://github.com/ddvniele?tab=repositories&type=source"><img src="https://img.shields.io/badge/SQL-purple"></a>
+            </td>
+            <td align="center">
+                <a href="https://twitter.com/ddvniele"><img src="https://img.shields.io/twitter/follow/ddvniele?style=social"></a>
+                <a href="https://reddit.com/u/justd4n"><img src="https://img.shields.io/badge/Reddit-@justd4n-orange"></a><br>
+                <a href="https://instagram.com/ddvniele"><img src="https://img.shields.io/badge/Instagram-@ddvniele-fuchsia"></a>
+                <a href="https://github.com/ddvniele"><img src="https://img.shields.io/github/followers/ddvniele?label=follow&style=social"></a>
+            </td>
+        </tr>
+    </table>
 </div>
