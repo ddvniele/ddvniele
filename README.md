@@ -1,5 +1,5 @@
 <div align="center">
-    <a href="https://ddvniele.github.io"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=35&pause=1000&color=BA96F7&center=true&vCenter=true&width=435&lines=Hi%2C+I'm+Dan+%E3%83%84;Ciao%2C+sono+Dan+%E3%83%84;Salut%2C+je+suis+Dan+%E3%83%84;Hola%2C+soy+Dan+%E3%83%84" alt="Hi, I'm Dan ツ"></a><br><br>
+    <a href="https://ddvniele.github.io"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=35&pause=1000&color=A76F3C&center=true&vCenter=true&width=435&lines=Hi%2C+I'm+Dan+%E3%83%84;Ciao%2C+sono+Dan+%E3%83%84;Salut%2C+je+suis+Dan+%E3%83%84;Hola%2C+soy+Dan+%E3%83%84" alt="Hi, I'm Dan ツ"></a><br><br>
     <a href="https://ddvniele.github.io"><img src="https://img.shields.io/badge/visit_my_webpage-Dan's_House_ツ-white"></a>
 </div>
 <div align="center">
