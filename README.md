@@ -1,7 +1,6 @@
-# 📂 hi, i'm Dan ツ
-20 years old developer. studied programming in high school, now a marketing student in Italy. iOS, macOS, web developement, and much more. sometimes for fun, sometimes for real-world use. either way, they exist. don’t know what i’m here to do but i’m doing it.
-
-## 🖋️ active projects that prove my poor mental health
+# 📂 hi, I'm Dan ツ
+I'm a 20 years old developer who studied programming in high school, and is currently a marketing student in Cagliari, Italy. iOS, macOS, web developement, and much more. sometimes for fun, sometimes for real-world use. here's a look at my inventory ↓
+## 🔭 Projects I've worked on
 | icon | project                             | type | what it does | link |
 |------|-------------------------------------|------|--------------|------|
 | <a href="https://github.com/ddvniele/Sssymbols-macOS"><img width="50" alt="Sssymbols! Icon" src="https://github.com/user-attachments/assets/971411ba-912b-4b4c-8677-588e889dca84"></a> | Sssymbols! | macOS & iOS app | quickly find SF Symbols for your projects in your macOS menu bar or in a dedicated iOS app | [macOS](https://github.com/ddvniele/Sssymbols-macOS) or [iOS](https://github.com/ddvniele/Sssymbols-iOS) |
@@ -11,35 +10,16 @@
 | <a href="https://ddvniele.github.io/jbrepo"><img width="50" alt="jbrepo icon" src="https://github.com/ddvniele/jbrepo/blob/main/CydiaIcon.png"></a> | Dan's Repo | jailbreak repo | my jailbreak repo for Cydia, Sileo, Zebra or Installer | [github repo](https://github.com/ddvniele/jbrepo) or [website](https://ddvniele.github.io/jbrepo) |
 |  | checkm8 iOS 15 & 14 downgrade | guide | guide for downgrading checkm8 device from iOS 18/17/16 to iOS 15/14 avoiding activation problems | [github repo](https://github.com/ddvniele/checkm8-iOS15-14-downgrade) or [website](https://ddvniele.github.io/checkm8-iOS15-14-downgrade/) |
 
-## 🦅 mostly messing around with
-<details>
-<summary><strong>what i do</strong></summary>
+## 🦅 Tools I've been messing around with
+<a href="https://github.com/ddvniele?tab=repositories&type=source"><img src="https://img.shields.io/badge/Swift-orange"></a>&nbsp;&nbsp;
+<a href="https://github.com/ddvniele?tab=repositories&type=source"><img src="https://img.shields.io/badge/SwiftUI-orange"></a>&nbsp;&nbsp;
+<a href="https://github.com/ddvniele?tab=repositories&type=source"><img src="https://img.shields.io/badge/C-sharp-green"></a>&nbsp;&nbsp;
+<a href="https://github.com/ddvniele?tab=repositories&type=source"><img src="https://img.shields.io/badge/SQL-purple"></a>&nbsp;&nbsp;
+<a href="https://github.com/ddvniele?tab=repositories&type=source"><img src="https://img.shields.io/badge/HTML-gray"></a>&nbsp;&nbsp;
+<a href="https://github.com/ddvniele?tab=repositories&type=source"><img src="https://img.shields.io/badge/CSS-blue"></a>&nbsp;&nbsp;
+<a href="https://github.com/ddvniele?tab=repositories&type=source"><img src="https://img.shields.io/badge/JavaScript-yellow"></a>
 
-| what i do                           | do i like it | am i good at it |
-|-------------------------------------|--------------|-----------------|
-| iOS & macOS apps nobody asked for   | 🍎🍎🍎🍎🍎     | 🤷🏻‍♂️🤷🏻‍♂️🤷🏻‍♂️🤷🏻‍♂️         |
-| random web experiments              | 🌐🌐🌐        | 🐛🐛🐛           |
-| scripts I’ll never reuse            | 📝📝          | ⚡️⚡️⚡️           |
-| fixing bugs I created myself        | NO           | 🧑‍🔧🧑‍🔧🧑‍🔧           |
-| starting new side projects          | 🚀🚀🚀🚀🚀     | 🎲🎲🎲🎲         |
-| actually finishing them             | 🥲🥲🥲        | 💀💀💀           |
-</details>
-
-<details>
-<summary><strong>skills i actually use to get stuffs done</strong></summary>
-
-| skills                           | level |
-|----------------------------------|-------|
-| <a href="https://github.com/ddvniele?tab=repositories&type=source"><img src="https://img.shields.io/badge/Swift-orange"></a> | ⭐️⭐️⭐️⭐️ |
-| <a href="https://github.com/ddvniele?tab=repositories&type=source"><img src="https://img.shields.io/badge/SwiftUI-orange"></a> | ⭐️⭐️⭐️⭐️⭐️ |
-| <a href="https://github.com/ddvniele?tab=repositories&type=source"><img src="https://img.shields.io/badge/C-sharp-green"></a> | ⭐️⭐️⭐️⭐️ |
-| <a href="https://github.com/ddvniele?tab=repositories&type=source"><img src="https://img.shields.io/badge/SQL-purple"></a> | ⭐️⭐️⭐️⭐️ |
-| <a href="https://github.com/ddvniele?tab=repositories&type=source"><img src="https://img.shields.io/badge/HTML-gray"></a><br> | ⭐️⭐️⭐️⭐️ |
-| <a href="https://github.com/ddvniele?tab=repositories&type=source"><img src="https://img.shields.io/badge/CSS-blue"></a> | ⭐️⭐️⭐️ |
-| <a href="https://github.com/ddvniele?tab=repositories&type=source"><img src="https://img.shields.io/badge/JavaScript-yellow"></a> | ⭐️⭐️ |
-</details>
-
-## 🕵🏻‍♂️ you can find me on
+## 🕵🏻‍♂️ You can find me on
 <a href="mailto:ddvniele@gmail.com"><img width="275" src="https://img.shields.io/badge/ddvniele@gmail.com-Open_to_collabs!-blue"></a>
 - 🪴 ⟡ **Dan's House** - [ddvniele.github.io](https://ddvniele.github.io) → if you want to just get to know me better
 - ✉️ ⟡ **email** - [ddvniele@gmail.com](mailto:ddvniele@gmail.com) → ideas, collabs, memes
